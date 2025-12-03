@@ -1,0 +1,18 @@
+$main-collor : blue;
+
+body{
+    background-color: $main-collor;
+    color: white;
+}
+
+.card{
+    .title{
+        color: blue;
+        background-color: white;
+
+    }
+
+    .content{
+        background-color: gray;
+    }
+}
